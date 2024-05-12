@@ -1,0 +1,14 @@
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\bin\Debug\net8.0\jajajaja.exe
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\bin\Debug\net8.0\jajajaja.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\bin\Debug\net8.0\jajajaja.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\bin\Debug\net8.0\jajajaja.dll
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\bin\Debug\net8.0\jajajaja.pdb
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.dll
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\refint\jajajaja.dll
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.pdb
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\jajajaja.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\dIa\jajajaja\obj\Debug\net8.0\ref\jajajaja.dll

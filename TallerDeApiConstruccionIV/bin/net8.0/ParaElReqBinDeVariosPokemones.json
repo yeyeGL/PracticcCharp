@@ -1,0 +1,31 @@
+[
+    {
+        "Id": 2,
+        "Nombre": "Squirtle",
+        "Tipo": "Aire",
+        "ArrayAtaques": [11, 24, 23, 9],
+        "Defensa": 12.2
+    },
+    {
+        "Id": 3,
+        "Nombre": "Bulbasaur",
+        "Tipo": "Fuego",
+        "ArrayAtaques": [14, 25, 16, 26],
+        "Defensa": 27.9
+    },
+    {
+        "Id": 4,
+        "Nombre": "Picachu",
+        "Tipo": "Aire",
+        "ArrayAtaques": [20, 18, 2, 1],
+        "Defensa": 23.5
+    },
+    {
+        "Id": 5,
+        "Nombre": "Charmeleon",
+        "Tipo": "Fuego",
+        "ArrayAtaques": [10, 11, 12, 7],
+        "Defensa": 11.1
+    }
+]
+

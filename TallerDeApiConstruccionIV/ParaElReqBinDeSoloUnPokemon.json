@@ -1,0 +1,7 @@
+{
+    "Id": 1,
+    "Nombre": "Picachu",
+    "Tipo": "Electrico",
+    "ArrayAtaques": [13, 14, 15, 29],
+    "Defensa": 20.0
+}

@@ -1,0 +1,15 @@
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.sourcelink.json
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\bin\Debug\net8.0\InvertirUnNumeroDeTresCifras.exe
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\bin\Debug\net8.0\InvertirUnNumeroDeTresCifras.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\bin\Debug\net8.0\InvertirUnNumeroDeTresCifras.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\bin\Debug\net8.0\InvertirUnNumeroDeTresCifras.dll
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\bin\Debug\net8.0\InvertirUnNumeroDeTresCifras.pdb
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.dll
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\refint\InvertirUnNumeroDeTresCifras.dll
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.pdb
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\InvertirUnNumeroDeTresCifras.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\jajajaj\PracticCharp\InvertirUnNumeroDeTresCifras\obj\Debug\net8.0\ref\InvertirUnNumeroDeTresCifras.dll

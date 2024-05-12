@@ -1,0 +1,14 @@
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\bin\Debug\net8.0\Fraccionarios.exe
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\bin\Debug\net8.0\Fraccionarios.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\bin\Debug\net8.0\Fraccionarios.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\bin\Debug\net8.0\Fraccionarios.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\bin\Debug\net8.0\Fraccionarios.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\refint\Fraccionarios.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\Fraccionarios.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Fraccionarios\obj\Debug\net8.0\ref\Fraccionarios.dll

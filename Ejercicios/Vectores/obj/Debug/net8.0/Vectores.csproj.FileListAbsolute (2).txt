@@ -1,0 +1,15 @@
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\bin\Debug\net8.0\Vectores.exe
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\bin\Debug\net8.0\Vectores.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\bin\Debug\net8.0\Vectores.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\bin\Debug\net8.0\Vectores.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\bin\Debug\net8.0\Vectores.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.sourcelink.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\refint\Vectores.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\Vectores.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\Vectores\obj\Debug\net8.0\ref\Vectores.dll

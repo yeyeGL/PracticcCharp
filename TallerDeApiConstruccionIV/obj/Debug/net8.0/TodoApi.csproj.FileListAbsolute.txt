@@ -1,0 +1,238 @@
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\TodoApi.exe
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\Juan Pablo\Desktop\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\TodoApi.exe
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\TodoApi.exe
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\Juan Pablo\Desktop\Programas\Csharp\PokemonApi\bin\Debug\net8.0\JsonParaAgregarVariosPokemones.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\appsettings.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\TodoApi.exe
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\ParaElReqBinDeSoloUnPokemon.json
+C:\Users\gyeis\OneDrive\Escritorio\PruebaE\Api-C-sharp-main\bin\Debug\net8.0\ParaElReqBinDeVariosPokemones.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\appsettings.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\ParaElReqBinDeSoloUnPokemon.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\ParaElReqBinDeVariosPokemones.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\TodoApi.exe
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeaApiConstruccionIV\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\appsettings.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\ParaElReqBinDeSoloUnPokemon.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\ParaElReqBinDeVariosPokemones.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.exe
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.sourcelink.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticDeCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\appsettings.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\ParaElReqBinDeSoloUnPokemon.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\ParaElReqBinDeVariosPokemones.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.exe
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.TodoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.build.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TodoApi.props
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\scopedcss\bundle\TodoApi.styles.css
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.csproj.Up2Date
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\refint\TodoApi.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticcCharp\TallerDeApiConstruccionIV\obj\Debug\net8.0\ref\TodoApi.dll

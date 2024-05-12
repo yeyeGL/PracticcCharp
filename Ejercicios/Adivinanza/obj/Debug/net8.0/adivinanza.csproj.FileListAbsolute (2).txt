@@ -1,0 +1,14 @@
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\bin\Debug\net8.0\adivinanza.exe
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\bin\Debug\net8.0\adivinanza.deps.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\bin\Debug\net8.0\adivinanza.runtimeconfig.json
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\bin\Debug\net8.0\adivinanza.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\bin\Debug\net8.0\adivinanza.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.AssemblyInfoInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.AssemblyInfo.cs
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.csproj.CoreCompileInputs.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\refint\adivinanza.dll
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.pdb
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\adivinanza.genruntimeconfig.cache
+C:\Users\gyeis\OneDrive\Escritorio\PracticCharp\adivinanza\obj\Debug\net8.0\ref\adivinanza.dll
