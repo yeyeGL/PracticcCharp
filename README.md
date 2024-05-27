@@ -1,6 +1,6 @@
-NOTA --> El archivo de API de C# para probar los endpoints de crear un pokemon y varios pokemones estan en formato JSON
+NOTA --> Entregable de blazor
 
-Comandos 1 --> cd PracticcCharp     2 -->  cd TallerDeApiConstruccionIV
+Comandos 1 --> cd PracticcCharp     2 -->  cd TiendaLineaG   3 -- > cd TiendaLineaGamin
 
 
 
